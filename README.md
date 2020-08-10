@@ -1,3 +1,5 @@
+# Valid only for Windows Servers (AWS-RunPowerShellScript)
+
 # AWS SSM Send-Command
 
 This action helps you to execute remote bash command for AWS EC2 instance **without SSH or other accessing**. 
