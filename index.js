@@ -50,7 +50,7 @@ function SanitizeInputs() {
   const _comment = core.getInput('comment')
 
   // customized not supported yet, will be updated soon.
-  const _documentName = 'AWS-RunShellScript'
+  const _documentName = 'AWS-RunPowerShellScript'
   const _outputS3BucketName = 'your-s3-bucket-name'
   const _outputS3KeyPrefix = 'your-s3-bucket-directory-name'
 
